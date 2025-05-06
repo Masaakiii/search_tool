@@ -19,13 +19,13 @@
 ### 🚀 実行方法
 
 ```bash
-python search_tool.py
+search_tool_Ver06.py
 ```
 
 ### 📦 ファイル構成
 
 ```
-├── search_tool.py       # メインスクリプト
+├── search_tool_Ver06.py # メインスクリプト
 ├── example.xlsx         # 検索対象のサンプルExcelファイル
 ├── output.csv           # 検索結果（出力ファイル）
 └── README.md            # プロジェクト説明（日本語）
